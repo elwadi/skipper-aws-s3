@@ -1,6 +1,6 @@
 {
-  "name": "skipper-s3-resize",
-  "version": "1.0.0",
+  "name": "skipper-aws-s3",
+  "version": "0.0.1",
   "description": "Streaming file uploads to AWS S3 and resize images GM",
   "main": "index.js",
   "scripts": {

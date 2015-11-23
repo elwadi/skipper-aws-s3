@@ -295,4 +295,3 @@ module.exports = function SkipperS3 (globalOpts) {
     return receiver__;
   }
 };
-
